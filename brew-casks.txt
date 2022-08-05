@@ -2,3 +2,5 @@ visual-studio-code
 firefox
 app-cleaner
 vlc
+1password
+alt-tab
