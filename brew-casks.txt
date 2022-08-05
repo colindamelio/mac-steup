@@ -1,0 +1,4 @@
+visual-studio-code
+firefox
+app-cleaner
+vlc
